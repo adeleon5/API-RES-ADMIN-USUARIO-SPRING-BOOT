@@ -36,5 +36,6 @@ SELECT * FROM USUARIO
 SELECT * FROM ROL
 SELECT * FROM ASIG_ACCESO
 SELECT * FROM MENU
---update menu set ruta='/admin' where id=2
+
+
 
